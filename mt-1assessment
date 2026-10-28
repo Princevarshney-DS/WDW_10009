@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tourist Places in India</title>
+</head>
+<body>
+    <h1 align="center"><font color="blue">Tourist Places in India</font></h1>
+
+    <table border="1" align="center" cellpadding="5">
+        <tr>
+            <td align="center">
+                <img src="https://commons.wikimedia.org/wiki/Special:FilePath/India_gate_new_delhi.jpg?width=300" alt="India Gate" width="200" height="130"><br>
+                <b>India Gate</b>
+            </td>
+            <td align="center">
+                <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Red_Fort_in_Delhi_03-2016_img3.jpg?width=300" alt="Red Fort" width="200" height="130"><br>
+                <b>Red Fort</b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Qutb_Minar_2011.jpg?width=300" alt="Qutub Minar" width="200" height="130"><br>
+                <b>Qutub Minar</b>
+            </td>
+            <td align="center">
+                <img src="https://commons.wikimedia.org/wiki/Special:FilePath/LotusDelhi.jpg?width=300" alt="Lotus Temple" width="200" height="130"><br>
+                <b>Lotus Temple</b>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
